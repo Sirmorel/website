@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sirmorel.github.io/website/sitemap.xml
